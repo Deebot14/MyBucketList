@@ -15,7 +15,7 @@ The app uses RecyclerView to display a scrollable list of custom entries, each r
 
 
 ## Core Features
-- ###Two Bucket List Categories
+- ### Two Bucket List Categories
 Users can select between "Things to Do" and "Places to Go" from the home screen (MainActivity). Each option opens a new screen displaying relevant items.
 
 - ### CardView-based List UI
